@@ -8,7 +8,7 @@ print("Hola mundo")
 mi_nombre ="mi nombre es python"
 print(mi_nombre)
 
-#Texto multilínea con el caracter \
+#concatenar texto con el caracter \
 texto = "este es un texto\
  multilínea"
 print(texto)
